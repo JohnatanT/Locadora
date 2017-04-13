@@ -3,25 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadFilme.java</file>
             <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConCliente.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/rem/RemCliente.java</file>
+            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadFilme.java</file>
             <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConCategoria.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/principal/Main.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/edit/EditCliente.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/edit/EditCategoria.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConFunc.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/edit/EditFilme.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConDvd.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadCategoria.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/rem/RemCategoria.java</file>
             <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadDvd.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/edit/EditFunc.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/Menu.java</file>
             <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConFilme.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/Login.java</file>
-            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadCliente.java</file>
+            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/Menu.java</file>
+            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConFunc.java</file>
             <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/cad/CadFunc.java</file>
+            <file>file:/home/fcavalcante/NetBeansProjects/Locadora/src/view/con/ConDvd.java</file>
         </group>
     </open-files>
 </project-private>
