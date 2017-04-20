@@ -50,6 +50,7 @@ public class ConFilme extends javax.swing.JFrame {
         jLabel2.setText("Consulta Filme");
 
         jButton1.setFont(new java.awt.Font("Montserrat Alternates Black", 1, 12)); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("/home/fcavalcante/NetBeansProjects/Locadora/src/view/img/saveEdit.png")); // NOI18N
         jButton1.setText("Consultar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

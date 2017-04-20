@@ -4,8 +4,8 @@
  * and open the template in the editor.
  */
 package view.cad;
-
 import java.awt.Toolkit;
+
 
 /**
  *
@@ -13,9 +13,10 @@ import java.awt.Toolkit;
  */
 public class CadCategoria extends javax.swing.JFrame {
 
-    /**
-     * Creates new form CadCategoria
-     */
+  
+      
+    
+    
     public CadCategoria() {
         initComponents();
         setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("/view/img/logo.png")));
