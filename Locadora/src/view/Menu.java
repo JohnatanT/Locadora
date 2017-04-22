@@ -304,7 +304,23 @@ public class Menu extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+private void remDVDActionPerformed(java.awt.event.ActionEvent evt) {                                       
+        new RemDvd().setVisible(true);
+    } 
+private void remClienteActionPerformed(java.awt.event.ActionEvent evt) {                                           
+        new RemCliente().setVisible(true);
+    }      
+private void remCategoriaActionPerformed(java.awt.event.ActionEvent evt) {                                             
+        new RemCategoria().setVisible(true);
+}
 
+private void remFilmeActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        new RemFilme().setVisible(true);
+    }                                        
+private void remFuncActionPerformed(java.awt.event.ActionEvent evt) {                                        
+        new RemFunc().setVisible(true);
+    }                                       
+    
     private void conDVDActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_conDVDActionPerformed
         new ConDvd().setVisible(true);
     }//GEN-LAST:event_conDVDActionPerformed
